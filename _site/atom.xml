@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Jason Huggins</title>
+ <link href="http://hugs.io/atom.xml" rel="self"/>
+ <link href="http://hugs.io/"/>
+ <updated>2011-03-30T14:28:02-07:00</updated>
+ <id>http://hugs.io/</id>
+ <author>
+   <name>Jason Huggins</name>
+   <email>jason@hugs.io</email>
+ </author>
+
+ 
+ <entry>
+   <title>First Post</title>
+   <link href="http://hugs.io/2011/03/30/first-post.html"/>
+   <updated>2011-03-30T00:00:00-07:00</updated>
+   <id>http://hugs.io/2011/03/30/first-post</id>
+   <content type="html">&lt;h1&gt;First Post&lt;/h1&gt;
+
+&lt;p class=&quot;meta&quot;&gt;30 March 2011 - Chicago&lt;/p&gt;
+
+
+
+</content>
+ </entry>
+ 
+ 
+</feed>
