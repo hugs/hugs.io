@@ -1,1 +1,4 @@
 _drafts/
+_site/config.ru
+_site/hugs.rb
+_site/start-hugs-io
