@@ -4,7 +4,7 @@
  <title>Jason Huggins</title>
  <link href="http://hugs.io/atom.xml" rel="self"/>
  <link href="http://hugs.io/"/>
- <updated>2014-06-23T14:38:49-05:00</updated>
+ <updated>2014-06-23T17:31:00-05:00</updated>
  <id>http://hugs.io/</id>
  <author>
    <name>Jason Huggins</name>
@@ -19,11 +19,15 @@
    <id>http://hugs.io/2014/06/23/healthcare-dot-gov-2</id>
    <content type="html">&lt;h1&gt;HealthCare.gov 2.0&lt;/h1&gt;
 
-&lt;img src=&quot;/images/all-in-screenshot.png&quot;/&gt;
+&lt;a href=&quot;http://www.msnbc.com/all-in/watch/the-nerds-who-saved-obamacare-175808579562&quot;&gt;&lt;img src=&quot;/images/all-in-screenshot.png&quot; alt=&quot;That&#39;s me, second from the left.&quot;/&gt;&lt;/a&gt;
 
-&lt;p&gt;Last fall, I was honored to be on the &quot;tech surge&quot; team of outsiders that helped fixed HealthCare.gov. I was on-site in the D.C. area for almost all of November and December. I mostly helped with tasks related to test automation.&lt;/p&gt;
+&lt;p&gt;Last fall, I was honored to be on the &quot;&lt;a href=&quot;http://www.whitehouse.gov/the-press-office/2013/10/21/remarks-president-affordable-care-act&quot;&gt;tech surge&lt;/a&gt;&quot; team of outsiders that helped fixed &lt;a href=&quot;http://healthcare.gov&quot;&gt;HealthCare.gov&lt;/a&gt;. I was on-site in the D.C. area for almost all of November and December. I helped mostly with tasks related to test automation.&lt;/p&gt;
 
-&lt;p&gt;As of this week, I&#39;m rejoining the HealthCare.gov effort. I&#39;m taking another leave of absence from Sauce Labs, to help the Marketplace 2.0 team.&lt;/p&gt;
+&lt;p&gt;As of last week, I&#39;m rejoining the HealthCare.gov effort. I&#39;m taking another leave of absence from Sauce Labs, to help &lt;a href=&quot;http://adhocteam.us/&quot;&gt;Ad Hoc&lt;/a&gt; and the &lt;a href=&quot;http://www.wired.com/2014/06/healthcare-gov-revamp/&quot;&gt;Marketplace 2.0&lt;/a&gt; team.&lt;/p&gt;
+
+&lt;p&gt;Long term, the government needs to get better at software development, including test automation. For now, the best way to fight that fight is by example. If the Marketplace 2.0 team can help the government avoid last year&#39;s drama when open enrollment begins again in October, then we&#39;ll have a good story to share with other departments and agencies. But if we get a repeat of last year, then it&#39;ll be a lot harder to convince government officials to change their ways.&lt;/p&gt;
+
+&lt;p&gt;So... no pressure...&lt;/p&gt;
 
 &lt;p class=&quot;meta&quot;&gt;23 June 2014&lt;/p&gt;
 </content>
