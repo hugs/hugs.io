@@ -4,7 +4,7 @@
  <title>Jason Huggins</title>
  <link href="http://hugs.io/atom.xml" rel="self"/>
  <link href="http://hugs.io/"/>
- <updated>2014-06-24T08:04:18-05:00</updated>
+ <updated>2014-06-24T08:29:10-05:00</updated>
  <id>http://hugs.io/</id>
  <author>
    <name>Jason Huggins</name>
@@ -20,7 +20,7 @@
    <content type="html">&lt;h1&gt;What&#39;s in a Name&lt;/h1&gt;
 
 
-&lt;p&gt;&lt;img src=&quot;/images/white-house-small.png&quot; title=&quot;White House (photo by Jason Huggins)&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/white-house-small.png&quot; alt=&quot;White House&quot;/&gt;&lt;/p&gt;
 
 &lt;p&gt;When he got to me, I extended my hand and said the customary &quot;Nice to meet you, Mr. President.&quot;&lt;/p&gt;
 

@@ -4,7 +4,7 @@ title: What's in a Name
 ---
 
 <h1>{{ page.title }}</h1>
-<img src="{{ site.url }}/images/white-house-small.png" title="White House (photo by Jason Huggins)"/>
+<img src="{{ site.url }}/images/white-house-small.png" alt="White House"/>
 
 When he got to me, I extended my hand and said the customary "Nice to meet you, Mr. President."
 
