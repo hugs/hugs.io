@@ -1,2 +1,3 @@
 markdown: rdiscount
 highlighter: true
+exclude: ['README.textile', 'Procfile', 'Gemfile.lock', 'Gemfile']
