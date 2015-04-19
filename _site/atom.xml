@@ -4,13 +4,100 @@
  <title>Jason Huggins</title>
  <link href="http://hugs.io/atom.xml" rel="self"/>
  <link href="http://hugs.io/"/>
- <updated>2015-04-18T15:45:20-05:00</updated>
+ <updated>2015-04-18T20:18:23-05:00</updated>
  <id>http://hugs.io/</id>
  <author>
    <name>Jason Huggins</name>
    <email>jason@hugs.io</email>
  </author>
 
+ 
+ <entry>
+   <title>What Doomed MakerBot? The Osborne Effect</title>
+   <link href="http://hugs.io/2015/04/18/makerbot-and-the-osborne-effect.html"/>
+   <updated>2015-04-18T00:00:00-05:00</updated>
+   <id>http://hugs.io/2015/04/18/makerbot-and-the-osborne-effect</id>
+   <content type="html">&lt;h1&gt;What Doomed MakerBot? The Osborne Effect&lt;/h1&gt;
+
+
+&lt;p&gt;On April 17, &lt;a href=&quot;http://motherboard.vice.com/read/makerbot-just-laid-off-20-percent-of-its-staff&quot;&gt;MakerBot laid off 20% of its staff&lt;/a&gt;. That&#39;s a big deal to me as I&#39;ve been wondering what happened to the MakerBot I used to &lt;a href=&quot;http://www.makerbot.com/blog/2012/05/21/how-one-guys-idea-came-to-life-on-a-makerbot-at-maker-faire/&quot;&gt;admire&lt;/a&gt;. Years ago, I looked up to the MakerBot team as a role model of how to run an open hardware company. Bre Pettis, MakerBot co-founder and former CEO, had given many talks and had written many times about the virtues of open source and how it was critical to their early success. Here&#39;s what &lt;a href=&quot;http://makezine.com/2011/10/06/makes-exclusive-interview-with-bre-pettis-of-makerbot-life-10m-in-funding-and-beyond/&quot;&gt;Bre said about open source&lt;/a&gt; in 2011:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;b&gt;Make&lt;/b&gt;: Does funding change the commitment to open source hardware?
+&lt;br/&gt;
+&lt;b&gt;Bre&lt;/b&gt;: The funding doesn’t change our commitment to being open source. 
+Why would we change a winning strategy? Being open is the future of 
+manufacturing, and we’re just at the beginning of the age of sharing. In 
+the future, people will remember businesses that refused to share with 
+their customers and wonder how they could be so backwards.
+&lt;br/&gt;
+Our commitment to open source stems from our passion for sharing. We know 
+that if we share with our users and the world, there is a natural positive 
+effect.
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;So in 2012, when Bre announced that &lt;a href=&quot;http://makezine.com/2012/09/28/bre-pettis-ohs-challenges-of-open-source-consumer-products/&quot;&gt;MakerBot was closing its future designs&lt;/a&gt;, I wasn&#39;t satisfied with his explanation. His words rang hollow and insincere. It was also sadly ironic he made this announcement to a room of true believers at the &lt;i&gt;Open Hardware Summit&lt;/i&gt;. In Bre&#39;s words:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&quot;Some of the shifts we’ve just made, that’ve made some people
+grumpy. We are not sharing the design files for the body of the
+Replicator 2. That’s because it’s powder coated steel, and unless you
+have, like, an open-source steel bender, you’re not going to be able to
+do this, it’s not something you can do, at home.&quot;
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Really, that&#39;s it? Open source ends the moment it involves &lt;a href=&quot;http://hackaday.com/2011/12/07/aluminum-bending-tutorial-and-a-diy-brake/&quot;&gt;bending metal&lt;/a&gt; and &lt;a href=&quot;http://www.homediystuff.com/building-a-diy-oven-from-filing-cabinet/&quot;&gt;powder coat paint&lt;/a&gt;? Why not fund the creation of that open-source steel bender? What&#39;s really going on here?&lt;/p&gt;
+
+&lt;p&gt;After his Open Hardware Summit talk, Bre later tried to &lt;a href=&quot;http://www.makerbot.com/blog/2012/09/24/lets-try-that-again/&quot;&gt;lay the blame on cheap Chinese clones&lt;/a&gt;, like the &lt;a href=&quot;https://www.kickstarter.com/projects/mattstrong/the-tangibot-3d-printer-the-affordable-makerbot-re&quot;&gt;Tangibot&lt;/a&gt;. Others, and notably fellow MakerBot co-founder, Zach Smith, &lt;a href=&quot;http://www.hoektronics.com/2012/09/21/makerbot-and-open-source-a-founder-perspective/&quot;&gt;remained skeptical&lt;/a&gt;, saying &quot;I look at a move to closed source as the ultimate betrayal.&quot; For years, many continued to doubt Bre&#39;s statements.&lt;/p&gt;
+
+&lt;p&gt;Another opportunity for Bre to discuss the issue appeared in the Netflix documentary, &lt;a href=&quot;http://printthefilm.com/&quot;&gt;&lt;i&gt;Print the Legend&lt;/i&gt;&lt;/a&gt;, released in 2014. Here&#39;s what Bre said about open source in the movie:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&quot;You can&#39;t live in the fantasy world and have a business, too, sometimes.&quot;
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Gee, thanks, Bre. Again, why do you think that&#39;s true? How did you come to that conclusion? What do you know that those of still living in &quot;fantasy world&quot; don&#39;t know?&lt;/p&gt;
+
+&lt;p&gt;I would like to know because, someday, I hope to start a hardware company based on open source principles, just like MakerBot did. It would be the second time I&#39;ve founded a &lt;a href=&quot;https://saucelabs.com/&quot;&gt;company&lt;/a&gt; based on an &lt;a href=&quot;http://docs.seleniumhq.org/&quot;&gt;open source project I started&lt;/a&gt;. My hardware product is a robot, called &lt;a href=&quot;https://github.com/hugs/tapsterbot&quot;&gt;Tapster&lt;/a&gt;, which software developers can use to test mobile apps on devices like iOS and Android phones and tablets. Tapster is completely &lt;a href=&quot;https://github.com/hugs/tapsterbot/blob/master/LICENSE&quot;&gt;open source hardware&lt;/a&gt; and most of its parts are 3D printable. For the past three years, through a site called &lt;a href=&quot;https://www.tindie.com/products/hugs/tapster/&quot;&gt;Tindie&lt;/a&gt;, I&#39;ve sold my robots to major mobile phone manufacturers, car manufacturers, and software companies around the world. As the project grows, I&#39;m determined to remain true to open source ideals. Yet, I wonder, thanks to MakerBot, are those ideals fundamentally incompatible with making a profit?&lt;/p&gt;
+
+&lt;p&gt;Just when I thought Bre&#39;s reasons would forever remain a mystery, I found this &lt;a href=&quot;http://firstround.com/review/the-man-behind-makerbot-on-finding-the-stories-that-build-your-brand/&quot;&gt;recent interview with Bre&lt;/a&gt;. Buried in there, I believe we finally get the real reason MakerBot went closed source:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&quot;For a while, we tried to have this super utopian business model that
+was probably more befitting of nonprofits, where we just shared
+absolutely everything we were working on.&quot; One of those things was a
+rough sketch for a second 3D printer model. The good news? Word spread
+like wildfire among MakerBot fans who were immediately sold. The bad
+news? Everyone stopped buying the first generation printer to wait for
+the latest and greatest — which was still a year away.
+&lt;br/&gt;&lt;br/&gt;
+&quot;We got through it somehow, but we definitely shot ourselves in the
+foot that time,&quot; Pettis says. &quot;And you can only shoot yourself in the
+foot so many times before you can&#39;t walk anymore.&quot;
+&lt;br/&gt;&lt;br/&gt;
+So where does he land on sharing today? Don&#39;t hesitate to reveal the
+inner-workings of your decision-making process if it would strengthen
+your dialogue with customers. When it comes to business plans and
+unreleased products, however, think (and then think again) about
+potential fallout. Once a story is out in the wild, there&#39;s no getting
+it back.
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Aha, that&#39;s it! MakerBot fell victim to the &lt;a href=&quot;http://en.wikipedia.org/wiki/Osborne_effect&quot;&gt;Osborne effect&lt;/a&gt;, where talking openly about future products hurt the sale of their current products. Sales dropped, so they got scared and went closed. That sounds like a way more honest and real answer than the non-existence of an open source steel bender.&lt;/p&gt;
+
+&lt;p&gt;What&#39;s harder to link, however, is the connection between MakerBot&#39;s Osborne moment, and yesterday&#39;s news of layoffs. But that won&#39;t stop people like me from speculating! When MakerBot closed their designs, they burned a bridge with some of their loudest supporters, their early adopters. Those early adopters felt burned, and returned the favor by not recommending MakerBot to their friends and families anymore. Did the bad publicity from the decision to go closed source have a larger impact on the company than the Osborne effect of being too open? We&#39;ll never know for sure. Or perhaps, we&#39;ll just have to wait a few more years until they&#39;re more open about it.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>What's in a Name</title>
