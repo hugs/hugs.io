@@ -34,7 +34,7 @@ do this, it’s not something you can do, at home."
 
 Really, that's it? Open source ends the moment it involves <a href="http://hackaday.com/2011/12/07/aluminum-bending-tutorial-and-a-diy-brake/">bending metal</a> and <a href="http://www.homediystuff.com/building-a-diy-oven-from-filing-cabinet/">powder coat paint</a>? Why not fund the creation of that open source steel bender? What's really going on here?
 
-After his Open Hardware Summit talk, Bre later tried to <a href="http://www.makerbot.com/blog/2012/09/24/lets-try-that-again/">lay the blame on cheap Chinese clones</a>, like the <a href="https://www.kickstarter.com/projects/mattstrong/the-tangibot-3d-printer-the-affordable-makerbot-re">Tangibot</a>. Others, and notably fellow MakerBot co-founder, Zach Smith, <a href="http://www.hoektronics.com/2012/09/21/makerbot-and-open-source-a-founder-perspective/">remained skeptical</a>, saying "I look at a move to closed source as the ultimate betrayal." For years, many continued to doubt Bre's statements.
+A few days before his Open Hardware Summit talk, Bre tried to <a href="http://www.makerbot.com/blog/2012/09/24/lets-try-that-again/">lay the blame on cheap Chinese clones</a>, like the <a href="https://www.kickstarter.com/projects/mattstrong/the-tangibot-3d-printer-the-affordable-makerbot-re">Tangibot</a>. Others, and notably fellow MakerBot co-founder, Zach Smith, <a href="http://www.hoektronics.com/2012/09/21/makerbot-and-open-source-a-founder-perspective/">remained skeptical</a>, saying "I look at a move to closed source as the ultimate betrayal." For years, many continued to doubt Bre's statements.
 
 Another opportunity for Bre to discuss the issue appeared in the Netflix documentary, <a href="http://printthefilm.com/"><i>Print the Legend</i></a>, released in 2014. Here's what Bre said about open source in the movie:
 
@@ -76,4 +76,4 @@ What's harder to link, however, is the connection between MakerBot's Osborne mom
 
 <hr>
 
-Discuss this on <a href="https://news.ycombinator.com/item?id=9401799">Hacker News</a>, <a href="http://www.reddit.com/r/technology/comments/3338p0/what_doomed_makerbot_the_osborne_effect/">reddit</a>, or heckle me on <a href="https://twitter.com/hugs">Twitter</a>.
+Discuss this on <a href="https://news.ycombinator.com/item?id=9401799">Hacker News</a> or heckle me on <a href="https://twitter.com/hugs">Twitter</a>.
