@@ -42,7 +42,7 @@ Another opportunity for Bre to discuss the issue appeared in the Netflix documen
 "You can't live in the fantasy world and have a business, too, sometimes."
 </blockquote> 
 
-Gee, thanks, Bre. Again, why do you think that's true? How did you come to that conclusion? What do you know that those of still living in "fantasy world" don't know?
+Gee, thanks, Bre. Again, why do you think that's true? How did you come to that conclusion? What do you know that those of us still in the "fantasy world" don't know?
 
 I would like to know because, someday, I hope to start a hardware company based on open source principles, just like MakerBot did. It would be the second time I've founded a <a href="https://saucelabs.com/">company</a> based on an <a href="http://docs.seleniumhq.org/">open source project I started</a>. My hardware product is a robot, called <a href="https://github.com/hugs/tapsterbot">Tapster</a>, which software developers can use to test mobile apps on devices like iOS and Android phones and tablets. Tapster is completely <a href="https://github.com/hugs/tapsterbot/blob/master/LICENSE">open source hardware</a> and most of its parts are 3D printable. For the past three years, through a site called <a href="https://www.tindie.com/products/hugs/tapster/">Tindie</a>, I've sold my robots to major mobile phone manufacturers, car manufacturers, and software companies around the world. As the project grows, I'm determined to remain true to open source ideals. Yet, I wonder, thanks to MakerBot, are those ideals fundamentally incompatible with making a profit?
 
