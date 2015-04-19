@@ -73,3 +73,7 @@ it back.
 Aha, that's it! MakerBot fell victim to the <a href="http://en.wikipedia.org/wiki/Osborne_effect">Osborne effect</a>, where talking openly about future products hurt the sale of their current products. Sales dropped, so they got scared and went closed. That sounds like a way more honest and real answer than the non-existence of an open source steel bender.
 
 What's harder to link, however, is the connection between MakerBot's Osborne moment, and yesterday's news of layoffs. But that won't stop people like me from speculating! When MakerBot closed their designs, they burned a bridge with some of their loudest supporters, their early adopters. Those early adopters felt burned, and returned the favor by not recommending MakerBot to their friends and families anymore. Did the bad publicity from the decision to go closed source have a larger impact on the company than the Osborne effect of being too open? We'll never know for sure. Or perhaps, we'll just have to wait a few more years until they're more open about it.
+
+<hr>
+
+Discuss this on <a href="https://news.ycombinator.com/item?id=9401799">Hacker News</a>, <a href="http://www.reddit.com/r/technology/comments/3338p0/what_doomed_makerbot_the_osborne_effect/">reddit</a>, or heckle me on <a href="https://twitter.com/hugs">Twitter</a>.
