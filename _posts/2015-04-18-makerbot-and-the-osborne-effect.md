@@ -28,11 +28,11 @@ So in 2012, when Bre announced that <a href="http://makezine.com/2012/09/28/bre-
 "Some of the shifts we’ve just made, that’ve made some people
 grumpy. We are not sharing the design files for the body of the
 Replicator 2. That’s because it’s powder coated steel, and unless you
-have, like, an open-source steel bender, you’re not going to be able to
+have, like, an open source steel bender, you’re not going to be able to
 do this, it’s not something you can do, at home."
 </blockquote> 
 
-Really, that's it? Open source ends the moment it involves <a href="http://hackaday.com/2011/12/07/aluminum-bending-tutorial-and-a-diy-brake/">bending metal</a> and <a href="http://www.homediystuff.com/building-a-diy-oven-from-filing-cabinet/">powder coat paint</a>? Why not fund the creation of that open-source steel bender? What's really going on here?
+Really, that's it? Open source ends the moment it involves <a href="http://hackaday.com/2011/12/07/aluminum-bending-tutorial-and-a-diy-brake/">bending metal</a> and <a href="http://www.homediystuff.com/building-a-diy-oven-from-filing-cabinet/">powder coat paint</a>? Why not fund the creation of that open source steel bender? What's really going on here?
 
 After his Open Hardware Summit talk, Bre later tried to <a href="http://www.makerbot.com/blog/2012/09/24/lets-try-that-again/">lay the blame on cheap Chinese clones</a>, like the <a href="https://www.kickstarter.com/projects/mattstrong/the-tangibot-3d-printer-the-affordable-makerbot-re">Tangibot</a>. Others, and notably fellow MakerBot co-founder, Zach Smith, <a href="http://www.hoektronics.com/2012/09/21/makerbot-and-open-source-a-founder-perspective/">remained skeptical</a>, saying "I look at a move to closed source as the ultimate betrayal." For years, many continued to doubt Bre's statements.
 
